@@ -1,3 +1,3 @@
 # HTML-APPS
-*HTML İLE YAPILAN UYGULAMALAR*
-HTML kullanarak yazdığım projelerin deposu.
+*HTML ve CSS İLE YAPILAN UYGULAMALAR*
+HTML ve CSS kullanarak yazdığım projelerin deposu.
